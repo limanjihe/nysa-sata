@@ -1,0 +1,4 @@
+这是一个SATA的开源项目，是由
+使用FPGA实现SATA接口主机控制器，国内外在此方面已有研究成果可以借鉴和参考。美国北卡罗莱纳州大学可编程计算机系统实验室，Ashwin A. Mendon、Bin Huang和Ron Sass基于Open Cores的开源IP核，已经在Xilinx公司Virtex 6系列FPGA上，搭建了基于内置CPU，支持SATA2接口的环境。
+
+其中，图中内置的CPU为Xilinx嵌入式软核MicroBlaze，MGA为Multi Gigabit Transciever，MPMC为Multi-port Memory Controller，NPI为Native Port Interface，SSD为Solid State Drive。
